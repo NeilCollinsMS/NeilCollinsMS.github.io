@@ -4,15 +4,15 @@
 
 ### Sample Projects
 [Intermediate MySQL Demonstration](https://github.com/NeilCollinsMS/Intermediate-Advanced-MySQL-Demo)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/MySQL.png?raw=true"/>
 
 ---
 [Tableau Demonstration - Bestselling Books](https://github.com/NeilCollinsMS/Tableau-Demo-Bestselling-Books)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/tableau.png?raw=true"/>
 
 ---
 [Used Cars MLR Project](https://github.com/NeilCollinsMS/Cars-Data-MLR)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Rlogo.png?raw=true"/>
 
 ---
 
