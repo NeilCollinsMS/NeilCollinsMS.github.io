@@ -16,9 +16,11 @@
 
 ---
 
-
-
-
+<a href="https://www.linkedin.com/in/neilcollins20/">View My LinkedIn Profile</a> 
+<br><br>
+<a href="https://github.com/NeilCollinsMS">View My GitHub Profile</a> 
+<br><br>
+<a href="https://app.joinhandshake.com/users/26684365">View My Handshake Profile</a> 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
