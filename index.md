@@ -12,7 +12,7 @@
 
 ---
 [Used Cars MLR Project](https://github.com/NeilCollinsMS/Cars-Data-MLR)
-<img src="images/Rlogo.png?raw=true"/>
+<img src="images/Rlogo.jpeg?raw=true"/>
 
 ---
 
